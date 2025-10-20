@@ -1,5 +1,5 @@
 # CNN_Architectural_Comparison
-# CNN Mimarilerinin CIFAR-10 Veri Seti Üzerinde Karşılaştırılması
+## CNN Mimarilerinin CIFAR-10 Veri Seti Üzerinde Karşılaştırılması
 
 Bu proje, CIFAR-10 veri seti üzerinde dört farklı Evrişimli Sinir Ağı (CNN) mimarisinin performansını karşılaştırmaktadır. Proje, `Cifar10_CNN.ipynb` Jupyter Notebook dosyası içerisinde detaylı olarak incelenmiştir.
 

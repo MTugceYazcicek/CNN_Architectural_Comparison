@@ -56,7 +56,7 @@ Projenin çalışması için gerekli olan Python kütüphaneleri `requirements.t
     ```bash
     jupyter notebook Cifar10_CNN.ipynb.ipynb
     ```
-
+---
 ### Google Colab
 
 Not defterini (`Cifar10_CNN.ipynb`) doğrudan Google Colab'e yükleyerek GPU desteği ile hızlıca çalıştırabilirsiniz. Kütüphane yüklemeleri not defterinin içinde `%pip install ...` komutları ile yapılabilir.

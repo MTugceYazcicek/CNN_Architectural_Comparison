@@ -1,0 +1,7 @@
+# Temel Kütüphaneler
+tensorflow>=2.8.0
+numpy
+matplotlib
+pandas
+scikit-learn
+jupyter

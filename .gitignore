@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build/
+*dist/
+*.egg-info/
+
+# Sanal Ortam (Virtual Environment)
+venv/
+env/
+*/venv/
+*/env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+# Veri ve Modeller (Genellikle büyük olurlar ve depoya eklenmezler)
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.pb
+data/
+datasets/
+models/
+logs/
+results/
+
+# Ortam Değişkenleri
+.env
+*.env

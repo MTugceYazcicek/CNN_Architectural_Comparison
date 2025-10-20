@@ -60,3 +60,11 @@ Projenin çalışması için gerekli olan Python kütüphaneleri `requirements.t
 ### Google Colab
 
 Not defterini (`Cifar10_CNN.ipynb`) doğrudan Google Colab'e yükleyerek GPU desteği ile hızlıca çalıştırabilirsiniz. Kütüphane yüklemeleri not defterinin içinde `%pip install ...` komutları ile yapılabilir.
+---
+## Acknowledgements (Teşekkür ve Atıf)
+
+Bu projede kullanılan CIFAR-10 veri seti, Alex Krizhevsky, Vinod Nair ve Geoffrey Hinton tarafından sağlanmıştır.
+
+Veri seti hakkında daha fazla bilgi ve resmi atıf için:
+* [CIFAR-10 Dataset Page (Toronto Üniversitesi)](https://www.cs.toronto.edu/~kriz/cifar.html)
+* **Resmi Atıf:** *Alex Krizhevsky, "Learning Multiple Layers of Features from Tiny Images", 2009.* (Teknik Rapor)
